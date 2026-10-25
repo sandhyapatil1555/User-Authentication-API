@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1791649746928,
+    "name": "Komal",
+    "email": "komal3@example.com",
+    "password": "$2b$10$tdV9ZU1BgW.zGbTBGmwituXLa.RyyW7CYbSNILNZxuvsQ72TnV4Wa"
+  },
+  {
+    "id": 1791652414938,
+    "name": "Komal",
+    "email": "komaltest@example.com",
+    "password": "$2b$10$U6SCdktHd7XvS6VoiAgzhO3fzmhHMsa.jaz1Z8rEnoT9T/fd4i9lK"
+  },
+  {
+    "id": 1791653656192,
+    "name": "Komal",
+    "email": "komalnew@example.com",
+    "password": "$2b$10$CQNn0SZCBCKuELRnKgeO9.d3NYRDRVLMAf4vbpzduotk661ycUw6."
+  }
+]
